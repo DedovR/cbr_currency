@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<ValCurs Date="10.06.2017" name="Foreign Currency Market">
+<Valute ID="R01010">
+	<NumCode>036</NumCode>
+	<CharCode>AUD</CharCode>
+	<Nominal>1</Nominal>
+	<Name>������������� ������</Name>
+	<Value>42,9567</Value>
+</Valute>
+<Valute ID="R01060">
+	<NumCode>051</NumCode>
+	<CharCode>AMD</CharCode>
+	<Nominal>100</Nominal>
+	<Name>��������� ������</Name>
+	<Value>11,8139</Value>
+</Valute>
+<Valute ID="R01215">
+	<NumCode>208</NumCode>
+	<CharCode>DKK</CharCode>
+	<Nominal>10</Nominal>
+	<Name>������� ����</Name>
+	<Value>85,6902</Value>
+</Valute>
+<Valute ID="R01235">
+	<NumCode>840</NumCode>
+	<CharCode>USD</CharCode>
+	<Nominal>0</Nominal>
+	<Name>������ ���</Name>
+	<Value>57,0020</Value>
+</Valute>
+</ValCurs>
